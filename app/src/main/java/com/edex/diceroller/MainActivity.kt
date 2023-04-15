@@ -43,7 +43,6 @@ Column(modifier = modifier,
         horizontalAlignment = Alignment.CenterHorizontally) {
     Button(onClick = { /*TODO*/ }) {
         Text(text = stringResource(id = R.string.roll_button))
-        
     }
 
 }
